@@ -3,3 +3,4 @@ mlruns/
 .csv
 .pkl
 data/
+!*.csv.dvc
