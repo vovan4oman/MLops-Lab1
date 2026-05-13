@@ -48,8 +48,8 @@ project/
 
 ```bash
 # Клонування репозиторію
-git clone [встав_сюди_посилання_на_твій_github_репозиторій]
-cd [назва_папки_проекту]
+git clone git remote add origin https://github.com/vovan4oman/MLops-Lab1.git
+cd lab1
 
 # Створення та активація віртуального середовища
 python -m venv .venv
